@@ -1,0 +1,15 @@
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\bin\Debug\net8.0\EcommerceApplication.exe
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\bin\Debug\net8.0\EcommerceApplication.deps.json
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\bin\Debug\net8.0\EcommerceApplication.runtimeconfig.json
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\bin\Debug\net8.0\EcommerceApplication.dll
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\bin\Debug\net8.0\EcommerceApplication.pdb
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.sourcelink.json
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.dll
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\refint\EcommerceApplication.dll
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.pdb
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\EcommerceApplication.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\CoginzantSolution-main\Week 1\EcommerceApplication\obj\Debug\net8.0\ref\EcommerceApplication.dll
