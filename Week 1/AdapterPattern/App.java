@@ -1,8 +1,8 @@
 public class App {
     public static void main(String[] args) {
 
-        PayementProcessor razorPayProcessor = new RazorPayAdapter(new RazorPayGateway());
-        PayementProcessor ccAvenueProcessor = new CcavenueAdapter(new CcavenueGateway());
+        PaymentProcessor razorPayProcessor = new RazorPayAdapter(new RazorPayGateway());
+        PaymentProcessor ccAvenueProcessor = new CCavenueAdapter(new CCavenueGateway());
 
         System.out.println("Using RazorPay Adapter:");
         razorPayProcessor.processPayment(1500.00);

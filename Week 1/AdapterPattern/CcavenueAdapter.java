@@ -1,7 +1,7 @@
-public class CcavenueAdapter implements PayementProcessor {
-    private final CcavenueGateway ccAvenueGateway;
+public class CCavenueAdapter implements PaymentProcessor {
+    private final CCavenueGateway ccAvenueGateway;
 
-    public CcavenueAdapter(CcavenueGateway ccAvenueGateway) {
+    public CCavenueAdapter(CCavenueGateway ccAvenueGateway) {
         this.ccAvenueGateway = ccAvenueGateway;
     }
 
